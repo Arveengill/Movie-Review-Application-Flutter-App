@@ -43,4 +43,3 @@ lib/
 ├── media.dart
 ├── movie_data.dart
 ├── profile.dart
-└── form_page.dart
