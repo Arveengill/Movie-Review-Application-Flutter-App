@@ -72,7 +72,7 @@ The application includes a simple login system, a home dashboard, movie collecti
 | Arveen      | Overall system including UI design and overall system integration |
 | Haikal      | Review Form                                                       |
 | Eyman       | Edit Page                                                         |
-| Fadzmin     | Database for saved reviews                                        |
+| Fadzmin     | Database for saved reviews and report writing                     |
 
 ---
 
